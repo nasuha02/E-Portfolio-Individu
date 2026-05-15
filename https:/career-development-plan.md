@@ -11,11 +11,11 @@ Subject: CSA30203 Special Topics in Computer Network Security
 ## Software Developer (Security-Focused)
 
 ### Career Overview
-A Software Developer (Security-Focused) is responsible for developing software applications while ensuring that systems and user data are protected from cyber threats. This role combines software development skills with cybersecurity knowledge to create secure, reliable, and efficient applications.
+A Software Developer (Security-Focused) is responsible for developing and designing software applications that is strongly focus on security. This role combines software development skills with cybersecurity knowledge to ensure the applications can against cyber threats and vulnerabilities.   
 
-Unlike traditional software developers who mainly focus on system functionality, security-focused developers also implement security measures to prevent vulnerabilities such as SQL Injection, Cross-Site Scripting (XSS), unauthorized access, and data breaches.
+This role also has been to evolve from traditional to a modern along with latest technology. The traditional scope only focus on system functionality and also implemet security measures to prevent cyber threats and vulnerabilities such as SQL Injection, XSS, unauthorized access, ransomware and data breaches.  
 
-As modern organizations increasingly rely on web applications, cloud systems, and online platforms, secure software development has become highly important in the cybersecurity industry.
+Now, the modern one, not only focused on system functionality but also relying on web application, cloud systems and online platforms. Therefore, the security also become increasingly important in the cybersecurity industry.  
 
 ---
 
@@ -23,14 +23,21 @@ As modern organizations increasingly rely on web applications, cloud systems, an
 The responsibilities of a Security-Focused Software Developer include:
 
 - Designing and developing secure software applications
-- Writing clean and secure code
-- Implementing authentication and authorization systems
-- Protecting systems from vulnerabilities such as SQL Injection and XSS
-- Encrypting and securing sensitive user data
-- Testing and debugging applications for security weaknesses
-- Updating security patches and maintaining software security
-- Collaborating with cybersecurity teams and system administrators
-- Following secure coding standards and best practices
+- Conducting Security analysis
+- Developing authentication and authorization mechanisms
+- Developing encryption and decryption algorithms
+- Providing technical support
+- Staying up-to-date on security threats
+- Participating in code reviews
+
+---
+
+## Variation of Software Developers(Security-Focused)  
+- Application Security Developers
+- Network Security Developers
+- Cryptography Developers
+- Mobile Security Developers
+- Cloud Security Developers
 
 ---
 
@@ -51,8 +58,10 @@ The responsibilities of a Security-Focused Software Developer include:
 - Knowledge of common cyberattacks:
   - SQL Injection
   - Cross-Site Scripting (XSS)
-  - Malware
+  - Unauthorized access
   - Phishing
+  - Data Breaches
+  - Ransomware
 - Vulnerability testing and debugging
 - Understanding of OWASP Top 10 security risks
 
