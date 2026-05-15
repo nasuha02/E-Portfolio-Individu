@@ -18,6 +18,11 @@ Soft Skills
 
 | Current Skills | Industry Requirement |
 |---|---|
+| Information Security Policy | Understand the idea of data integrity and confidentiality by designing a database system. |
+| Vulnerability Management | Proficient in recognizing information leakage using Information Gathering attacks in the lab environment. |
+| Risk & Impact Analysis | Knowledgeable about understanding the time sequence of cyber attacks to assess their effects on business operations. |
+
+---
 
 # Career Development Plan
 
