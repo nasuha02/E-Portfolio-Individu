@@ -4,6 +4,16 @@ This section evaluates the degree of my readiness based on comparison between my
 
 ## i. Identification of Current Skills
 
+Technical Skills
+
+- Cybersecurity Research Skills: Be acquainted with techniques of data exfiltration analysis and the effects of ransomware attacks on the supply chain.
+
+Soft Skills
+
+- Team Collaboration: Worked in a group setting to execute complicated cybersecurity research projects.
+- Profession Communication Skills: Communicate about the progress of your project formally to your supervisor, reviewer panel, and lecturer.
+- Analysis Skills: Analyze the technical reviews for feedback to improve your system architectur
+
 # Career Development Plan
 
 My career goal is to become a Software Developer specializing in secure application development. I want to build secure systems and websites that are protected from cyber threats and unauthorized access.
