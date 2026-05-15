@@ -154,8 +154,8 @@ In the future, I want to continue learning modern software security practices an
 
 ## EVIDENCE OF LEARNING
 
-<img src="photo_2026-05-15_21-25-17.jpg" width="600">
-<img src="photo_2026-05-15_21-25-24.jpg" width="600">
+<img src="wireshark.jpg" width="600">
+<img src="wiresharks.jpg" width="600">
 
 On image 1, show the conducted using Wireshark to analyze network traffic.
 The captured packets use protocols such as QUIC and TLSv1.3, which are commonly used for secure internet communication.
