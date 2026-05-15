@@ -16,7 +16,7 @@ Soft Skills
 
 ## ii. Comparison: Current Skills vs Industry Requirements
 
-| Current Skills | Industry Requirement |
+| Industry Requirement | Current Skills |
 |---|---|
 | Information Security Policy | Understand the idea of data integrity and confidentiality by designing a database system. |
 | Vulnerability Management | Proficient in recognizing information leakage using Information Gathering attacks in the lab environment. |
