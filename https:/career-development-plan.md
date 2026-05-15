@@ -1,7 +1,7 @@
 # Personal Career Development Portfolio
 
 ## Student Information
-Name: Siti Zulaikha  
+Name: Wan Alyaa Nasuha Binti Wan Shaari  
 Course: Computer Science / Information Technology  
 Subject: CSA30203 Special Topics in Computer Network Security  
 
