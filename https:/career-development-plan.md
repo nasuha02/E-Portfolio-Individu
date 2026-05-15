@@ -86,6 +86,10 @@ This section evaluates the degree of my readiness based on comparison between my
 Technical Skills
 
 - Cybersecurity Research Skills: Be acquainted with techniques of data exfiltration analysis and the effects of ransomware attacks on the supply chain.
+- Information Gathering and Network Monitoring: Skilled in using Wireshark to monitor and analyze suspicious traffic in the network for security audits.
+- Communication Security: Familiar with the use of Mailvelope for managing encrypted emails to secure organizational communications.
+- Source Code Management and Scripting: Utilizing GitHub to maintain source code systematically and Python programming language to develop basic scripts.
+- Frontend Design and Data Display: Skillful in developing efficient interfaces and maintaining integrity of data display through HTML, CSS, and JavaScript.
 
 Soft Skills
 
@@ -97,9 +101,10 @@ Soft Skills
 
 | Industry Requirement | Current Skills |
 |---|---|
-| Information Security Policy | Understand the idea of data integrity and confidentiality by designing a database system. |
-| Vulnerability Management | Proficient in recognizing information leakage using Information Gathering attacks in the lab environment. |
-| Risk & Impact Analysis | Knowledgeable about understanding the time sequence of cyber attacks to assess their effects on business operations. |
+| Security Audit & Monitoring | Implement Wireshark proactively to monitor and identify anomalies in network traffic. |
+| Communications Confidentiality Management | Maintain the integrity and confidentiality of data through implementation of Mailvelope encryption technology. |
+| Code & Version Governance | Establish transparency in system development and proper version control through the GitHub platform. |
+| Project Leadership & Collaboration | Demonstrate good Teamwork and Communication skills to handle security projects professionally. |
 
 ---
 
