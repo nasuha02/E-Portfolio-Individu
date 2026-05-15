@@ -1,3 +1,7 @@
+# Personal Skills Assesment
+
+This section evaluates the degree of my readiness based on comparison between my existing abilities and those required by the cybersecurity industry.
+
 # Career Development Plan
 
 My career goal is to become a Software Developer specializing in secure application development. I want to build secure systems and websites that are protected from cyber threats and unauthorized access.
