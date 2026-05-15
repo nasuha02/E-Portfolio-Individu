@@ -16,6 +16,8 @@ Soft Skills
 
 ## ii. Comparison: Current Skills vs Industry Requirements
 
+| Current Skills | Industry Requirement |
+|---|---|
 
 # Career Development Plan
 
