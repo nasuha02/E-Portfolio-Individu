@@ -14,6 +14,9 @@ Soft Skills
 - Profession Communication Skills: Communicate about the progress of your project formally to your supervisor, reviewer panel, and lecturer.
 - Analysis Skills: Analyze the technical reviews for feedback to improve your system architectur
 
+## ii. Comparison: Current Skills vs Industry Requirements
+
+
 # Career Development Plan
 
 My career goal is to become a Software Developer specializing in secure application development. I want to build secure systems and websites that are protected from cyber threats and unauthorized access.
