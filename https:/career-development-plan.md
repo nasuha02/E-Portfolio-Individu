@@ -169,7 +169,7 @@ In addition, I want to improve my understanding of secure communication and netw
 
 In the future, I want to continue learning modern software security practices and improve my technical knowledge through projects, online courses, internships, and self-learning activities. I also hope to contribute to developing secure applications and systems that can protect user data, improve system security, and reduce cybersecurity risks.
 
-## EVIDENCE OF LEARNING
+# Evidence Of Learning
 
 <img src="wireshark.jpg" width="600">
 <img src="wiresharks.jpg" width="600">
@@ -183,7 +183,7 @@ On image 2, shows encrypted network communication captured using Wireshark with 
 The packets include Client Hello, Server Hello, Change Cipher Spec, and Application Data,
 which are part of the secure connection process.
 
-## e) Personal Reflection
+# Personal Reflection
 
 | Reflection Area | Explanation |
 |---|---|
